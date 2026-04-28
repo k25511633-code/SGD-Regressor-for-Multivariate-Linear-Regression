@@ -8,7 +8,6 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-
 1. Load and scale the dataset features (Size, Bedrooms) with StandardScaler.
 2.Train two SGDRegressor models separately for Price and Occupants
 3.Accept new house size and bedroom inputs, then scale them.
